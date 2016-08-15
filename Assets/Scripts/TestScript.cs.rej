@@ -1,0 +1,9 @@
+diff a/Assets/Scripts/TestScript.cs b/Assets/Scripts/TestScript.cs	(rejected hunks)
+@@ -7,6 +7,7 @@
+  	void Start () {
+  	 
+  		Debug.Log ("started");
+++<<<<<<< HEAD
+ +		Debug.Log ("new feature changes");
+ +
+ +=======
